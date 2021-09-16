@@ -26,7 +26,7 @@ Once NVM is installed & ready to use, you can easily switch between Node.js for 
 	> nvm use 10.13.0
 ```
 
-## Switching at project level:
+## switching at project level:
 
 ```
 	> cd projectName
